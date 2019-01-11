@@ -3,10 +3,9 @@
     margin: 0;
     padding: 0;
 }
-.body {
+body {
     width:60%;
     margin: auto;
-    text-align: center;
 }
 .one {
     width:100%;
