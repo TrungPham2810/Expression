@@ -1,0 +1,38 @@
+*{}
+* {
+    margin: 0;
+    padding: 0;
+}
+.body {
+    width:60%;
+    margin: auto;
+    text-align: center;
+}
+.one {
+    width:100%;
+    font-size: 2em;
+}
+.button1, .button2 {
+    background: red;
+    padding: 7px 13px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0 15px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.notification {
+    text-align: center;
+    width: 100%;
+    color:blue;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.show ,.hide {
+    display: none;
+}
